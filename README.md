@@ -12,3 +12,5 @@
 + **Deep Learning**
     + **Gradient Descent Part 1** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/DS_Maths/Gradient-Descent_1.ipynb)
     + **Gradient Descent Part 2** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/DS_Maths/Gradient-Descent_2.ipynb)
+    + **Convolutional Neural Network**
+        + **Implementing LeNet** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/CNN/Implementing_LeNet.ipynb)
