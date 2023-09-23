@@ -15,8 +15,7 @@
     + **Convolutional Neural Networks**
         + **Implementing LeNet** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/CNN/Implementing_LeNet.ipynb)
         + **LeNet with Batch Normalization** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/CNN/LeNet_with_BatchNorm.ipynb)
-        colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/CNN/Implementing_LeNet.ipynb)
         + **Pneumonia Classification**
-            + **Pnreprocessing** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/Labs/Lab3_Pneumonia-Classification/01-Preprocess.ipynb)
+            + **Preprocessing** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/Labs/Lab3_Pneumonia-Classification/01-Preprocess.ipynb)
             + **Model Training: ResNet 18** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/Labs/Lab3_Pneumonia-Classification/02-Train_ResNet18.ipynb)
             + **Model Training: ResNet 50** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main//Users/kp/Documents/GitHub/AIML_Healthcare/Labs/Lab3_Pneumonia-Classification/03-Train_ResNet50.ipynb)
