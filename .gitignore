@@ -13,7 +13,9 @@ CNN/Pneumonia-Classification/weights
 CNN/Pneumonia-Classification/Processed
 CNN/Pneumonia-Classification/logs
 CNN/experiments
-
+Labs/Lab3_Pneumonia-Classification/weights
+Labs/Lab3_Pneumonia-Classification/logs
+Labs/Lab3_Pneumonia-Classification/Processed
 # Distribution / packaging
 .Python
 build/
