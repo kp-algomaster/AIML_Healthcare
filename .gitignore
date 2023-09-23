@@ -9,6 +9,10 @@ __pycache__/
 # Datasets and Saved Models
 CNN/data/
 CNN/models
+CNN/Pneumonia-Classification/weights
+CNN/Pneumonia-Classification/Processed
+CNN/Pneumonia-Classification/logs
+CNN/experiments
 
 # Distribution / packaging
 .Python
