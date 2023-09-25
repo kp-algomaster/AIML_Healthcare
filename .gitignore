@@ -16,6 +16,7 @@ CNN/experiments
 Labs/Lab3_Pneumonia-Classification/weights
 Labs/Lab3_Pneumonia-Classification/logs
 Labs/Lab3_Pneumonia-Classification/Processed
+Labs/Lab4_Peripheral_Blood_Smear/AIML_Healthcare
 # Distribution / packaging
 .Python
 build/
