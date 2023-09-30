@@ -22,3 +22,5 @@
         + **Peripheral Blood Smear: Object Detection with Detectron2** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/Labs/Lab4_Peripheral_Blood_Smear/Training_Detectron2_for_blood_cells_detection.ipynb)
 
     + **Medical Prognosis: Risk Model** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/Labs/Lab5_Medical_Prognosis/risk-models-for-medical-prognosis/notebook/risk-models-classification.ipynb)
+
+     + **Introduction to Generative Adversial Network** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/kp-algomaster/AIML_Healthcare/blob/main/CNN/Introduction_to_Generative_Adversarial_Networks.ipynb)
